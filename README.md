@@ -47,7 +47,7 @@ Para acessar o sistema, utilize as seguintes credenciais:
     * `saqueMAXIMO`: 1000
     * `MAX_OPERACOES`: 10
 
-## 👨‍💻 Autor
+## 👨🏻‍💻  Autor
 
 * **Autor:** Allan Henrique Rosa Silva
 * **Instituição:** UNIPAC Barbacena
